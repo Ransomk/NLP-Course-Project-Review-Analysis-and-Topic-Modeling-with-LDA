@@ -1,4 +1,4 @@
-# NLP-Course-Project---Review-Analysis-and-Topic-Modelling-with-LDA
+# NLP-Course-Project - Review Analysis and Topic-Modelling with LDA (Latent Dirichlet Allocation)
 Review Analysis (Mobile Lenovo K8) Topic modelling - Ransom Kumar
 
 ### Note: _This is an academic project completed by me as part of my PG Data Science programme_
